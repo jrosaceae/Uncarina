@@ -24,5 +24,5 @@
 #######################################################
 #Files associated with trait and biogeography analyses#
 #######################################################
-Uncarina_leaf_images.zip #archive of all leaf outlines
-Uncarina_leaf_images_metadata.xls #metatata associated with leaf outlines
+1. Uncarina_leaf_images.zip #archive of all leaf outlines
+2. Uncarina_leaf_images_metadata.xls #metatata associated with leaf outlines
